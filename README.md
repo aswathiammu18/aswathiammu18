@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**Aswathi S** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+## Hi i'm Aswathi 👋
 
 ### About Me
 Diploma Student | Aspiring Full Stack Developer  
@@ -16,5 +14,4 @@ Passionate Computer Engineering student focused on building modern, responsive, 
 - Enhancing UI/UX skills for responsive designs
 - Exploring full-stack development projects  
 
-### Fun Fact ⚡
-I love experimenting with new technologies and turning ideas into interactive web experiences.
+
