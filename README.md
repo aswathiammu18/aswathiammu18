@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**aswathiammu18/aswathiammu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aswathi S** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+Diploma Student | Aspiring Full Stack Developer  
+Passionate Computer Engineering student focused on building modern, responsive, and user-friendly web applications with creative UI/UX design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Languages:** C, Python, JavaScript, PHP  
+- **Frontend:** HTML, CSS, React  
+- **Other:** UI/UX Design, Web Development  
+
+### What I’m Working On
+- Building modern web applications with React and PHP
+- Enhancing UI/UX skills for responsive designs
+- Exploring full-stack development projects  
+
+### Fun Fact ⚡
+I love experimenting with new technologies and turning ideas into interactive web experiences.
